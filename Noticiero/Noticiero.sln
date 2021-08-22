@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noticiero", "Noticiero.csproj", "{05838970-CB48-4D8C-ABC3-545F5C647211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05838970-CB48-4D8C-ABC3-545F5C647211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05838970-CB48-4D8C-ABC3-545F5C647211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05838970-CB48-4D8C-ABC3-545F5C647211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05838970-CB48-4D8C-ABC3-545F5C647211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8389F3D5-5514-4B59-ADB1-623C3A8FA846}
+	EndGlobalSection
+EndGlobal

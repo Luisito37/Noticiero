@@ -1,0 +1,7 @@
+F:\Luis\Escritorio\Luis\Bios\Segundo obligatorio\Noticiero\bin\Debug\Noticiero.exe.config
+F:\Luis\Escritorio\Luis\Bios\Segundo obligatorio\Noticiero\bin\Debug\Noticiero.exe
+F:\Luis\Escritorio\Luis\Bios\Segundo obligatorio\Noticiero\bin\Debug\Noticiero.pdb
+F:\Luis\Escritorio\Luis\Bios\Segundo obligatorio\Noticiero\obj\Debug\Noticiero.csproj.AssemblyReference.cache
+F:\Luis\Escritorio\Luis\Bios\Segundo obligatorio\Noticiero\obj\Debug\Noticiero.csproj.CoreCompileInputs.cache
+F:\Luis\Escritorio\Luis\Bios\Segundo obligatorio\Noticiero\obj\Debug\Noticiero.exe
+F:\Luis\Escritorio\Luis\Bios\Segundo obligatorio\Noticiero\obj\Debug\Noticiero.pdb
